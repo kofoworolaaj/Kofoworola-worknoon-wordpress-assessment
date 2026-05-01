@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://kofoworola-worknoon.htwcleaning.com/#website",
+      "url": "https://kofoworola-worknoon.htwcleaning.com/",
+      "name": "Worknoon",
+      "description": "High-performance digital systems focused on web development, SEO, analytics, and automation.",
+      "inLanguage": "en-NG",
+      "publisher": {
+        "@id": "https://kofoworola-worknoon.htwcleaning.com/#organization"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://kofoworola-worknoon.htwcleaning.com/?s={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://kofoworola-worknoon.htwcleaning.com/#organization",
+      "name": "Worknoon",
+      "url": "https://kofoworola-worknoon.htwcleaning.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://kofoworola-worknoon.htwcleaning.com/wp-content/uploads/2026/04/Kofo-logo.png",
+        "width": 200,
+        "height": 60,
+        "caption": "Worknoon Logo"
+      },
+      "image": "https://kofoworola-worknoon.htwcleaning.com/wp-content/uploads/2026/04/Kofo-logo.png",
+      "sameAs": [
+        "https://www.linkedin.com/in/kofoworola-taiwo-ajani-005468240/",
+        "https://www.instagram.com/kofoworola.aj/",
+        "https://github.com/kofoworolaaj"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "telephone": "+2348114324225",
+        "email": "kofoworolaajani1@gmail.com"
+      }
+    }
+  ]
+}
