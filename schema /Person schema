@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Ajani Kofoworola Taiwo",
+  "jobTitle": "Founder & Digital Systems Engineer",
+  "email": "kofoworolaajani1@gmail.com",
+  "telephone": "+2348114324225",
+  "url": "https://kofoworola-worknoon.htwcleaning.com/",
+  "image": "https://kofoworola-worknoon.htwcleaning.com/wp-content/uploads/2026/04/Kofo-logo.png",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Lagos",
+    "addressRegion": "Lagos State",
+    "addressCountry": "NG"
+  },
+  "knowsAbout": [
+    "WordPress Development",
+    "SEO",
+    "Web Analytics",
+    "Marketing Automation",
+    "Digital Strategy"
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Worknoon",
+    "url": "https://kofoworola-worknoon.htwcleaning.com/"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/in/kofoworola-taiwo-ajani-005468240/",
+    "https://www.instagram.com/kofoworola.aj/",
+    "https://github.com/kofoworolaaj"
+  ]
+}
