@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Worknoon",
+  "url": "https://kofoworola-worknoon.htwcleaning.com/",
+  "logo": "https://kofoworola-worknoon.htwcleaning.com/wp-content/uploads/2026/04/Kofo-logo.png",
+  "description": "Worknoon is a digital studio specializing in web development, SEO optimization, analytics, and intelligent automation systems for growing businesses.",
+  "email": "kofoworolaajani1@gmail.com",
+  "telephone": "+2348114324225",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Lagos",
+    "addressRegion": "Lagos State",
+    "addressCountry": "NG"
+  },
+  "areaServed": "Worldwide",
+  "foundingDate": "2024",
+  "knowsAbout": [
+    "Web Development",
+    "SEO Optimization",
+    "Analytics",
+    "Marketing Automation"
+  ],
+  "sameAs": [
+    "https://www.linkedin.com/in/kofoworola-taiwo-ajani-005468240/",
+    "https://www.instagram.com/kofoworola.aj/",
+    "https://github.com/kofoworolaaj"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "email": "kofoworolaajani1@gmail.com",
+    "telephone": "+2348114324225"
+  }
+}
